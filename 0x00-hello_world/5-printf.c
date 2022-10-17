@@ -14,4 +14,4 @@ printf("with proper grammar, but the outcome is a piece of art,");
 * Description: It allows no other code to run after it execute
 **/
 return(0);
-
+}
