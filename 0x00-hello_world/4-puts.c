@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
-* main - A function that serves as the main entry point for the c program
+* main - print a line of text with puts
+*
 * Return: 0
 */
 int main(void)
