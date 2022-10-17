@@ -1,7 +1,7 @@
 #include <stdio.h>
-/**
+/*
 * main - A function that serves as the main entry point for the c program
-* return: 0
+* Return: 0
 */
 int main(void)
 {
