@@ -22,13 +22,3 @@ void print_alphabet(void)
 	};
 	putchar('\n');
 }
-/**
-* main - main entry point of the program
-*
-* Return: integer
-*/
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
