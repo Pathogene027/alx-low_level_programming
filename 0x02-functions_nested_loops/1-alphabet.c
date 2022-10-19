@@ -6,9 +6,9 @@
 *
 * Return: void
 */
-void print_alphabet(ch)
+void print_alphabet(void)
 {
-	char ch[];
+	char ch[50];
 	int i = 0;
 
 	while (ch[i] != '\0')
