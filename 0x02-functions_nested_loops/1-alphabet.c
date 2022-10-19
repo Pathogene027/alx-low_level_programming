@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #include <ctype.h>
 #include "main.h"
 /**
@@ -7,13 +6,10 @@
 *
 * Return: void
 */
-void print_alphabet(void)
+void print_alphabet(ch)
 {
-	char ch[100] = "I sometimes suffer from insomnia. And when I ";
-	char ch1[60] = "can't fall asleep, I play what I call the alphabet game";
+	char ch[];
 	int i = 0;
-
-	strncat(ch, ch1, 60);
 
 	while (ch[i] != '\0')
 	{
