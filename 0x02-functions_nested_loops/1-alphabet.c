@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 #include "main.h"
 /**
 * print_alphabet - print a group of text
@@ -7,10 +7,9 @@
 */
 void print_alphabet(void)
 {
-	char ch = "a";
-	char i = "z";
+	char ch;
 
-	while (ch <= i)
+	while (ch = "a"; ch <= "z"; ch++)
 	{
 		putchar(ch);
 		ch++;
