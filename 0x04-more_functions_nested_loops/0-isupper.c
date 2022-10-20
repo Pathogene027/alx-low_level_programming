@@ -2,7 +2,7 @@
 #include "main.h"
 /**
 * _isupper - checks for uppercases
-*
+* @c: is avariable for testing
 * Return: returns 1 if c is upper or zero
 */
 int _isupper(int c)
